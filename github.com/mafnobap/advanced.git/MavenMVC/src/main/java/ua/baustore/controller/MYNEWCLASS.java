@@ -7,3 +7,4 @@ public class MYNEWCLASS {
 	
 	//dfffffffffffffffffffffffffffffffff
 }
+//test 2
